@@ -8,7 +8,6 @@ Welcome to my GitHub profile! I'm a passionate Data Analyst eager to dive into d
 - ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) **SQL**
 - ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) **Django**
 - ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=power-bi&logoColor=black) **Power BI**
-- ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white) **Tableau**
 
 ## 🌟 Projects
 Here are some of my notable projects:
