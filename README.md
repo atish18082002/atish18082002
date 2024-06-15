@@ -15,7 +15,7 @@ Here are some of my notable projects:
 
 
 ## 📫 How to reach me
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atish sonawane)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/atish-sonawane-603b2b307))
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:atish12345sonawane@gmail.com)
 
 ## 🧑‍💻 GitHub Stats
